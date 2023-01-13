@@ -13,7 +13,7 @@ public class genericspractice {
 			// string names[]={"ali","ahmed"};
 			// obj.showArray(names);
 			
-			Integer num[]= {1,2,3,4,5,6};
+			Integer num[]= {1,2,3,4,5};
 			obj.showArray(num);
 			
 			/*float c[]={20.4f,32.45f};
